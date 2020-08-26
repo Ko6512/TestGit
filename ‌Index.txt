@@ -4,6 +4,6 @@
 	<titile>Test for GITHUB MINI COURSE</title>
 <head>
 <body>
-	
+	<img src="Mask.png"/>	
 	<h2>Welcome to myWebSite</h2>
 </body>
