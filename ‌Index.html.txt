@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<titile>Test for GITHUB MINI COURSE</title>
+<head>
+<body>
+	<img src="Mask.png"/>	
+	<h2>Welcome to myWebSite</h2>
+	<b>UI Dsign</b>
+</body>
